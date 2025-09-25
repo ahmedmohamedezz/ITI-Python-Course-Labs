@@ -26,14 +26,24 @@ Inside each lab folder, you may find:
 
 Example structure:
 
-ITI-Python-Course-Labs/
-├── lab1/
-│ ├── exercise1.py
-│ ├── exercise2.py
-│ └── ...
-├── lab2/
-│ ├── module_a.py
-│ ├── main.py
-│ └── ...
-└── README.md
+ITI-Python-Course-Labs/  
+
+├── lab1/  
+
+│ ├── exercise1.py  
+
+│ ├── exercise2.py  
+
+│ └── ...  
+
+├── lab2/  
+
+│ ├── module_a.py  
+
+│ ├── main.py  
+
+│ └── ...  
+
+└── README.md  
+
 
