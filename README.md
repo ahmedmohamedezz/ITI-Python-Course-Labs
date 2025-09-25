@@ -6,7 +6,6 @@ This repository contains lab assignments, exercises, and example projects from t
 
 1. [About](#about)  
 2. [Lab Structure](#lab-structure)  
-3. [Setup](#setup)  
 
 
 ## About
