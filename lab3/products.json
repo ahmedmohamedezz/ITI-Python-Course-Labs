@@ -1,0 +1,27 @@
+[
+    {
+        "product": "apple",
+        "price": 20.0,
+        "discounted": 18.0
+    },
+    {
+        "product": "guave",
+        "price": 2.5,
+        "discounted": 2.25
+    },
+    {
+        "product": "mango",
+        "price": 3.4,
+        "discounted": 3.06
+    },
+    {
+        "product": "orange",
+        "price": 15.0,
+        "discounted": 13.5
+    },
+    {
+        "product": "shakshoka",
+        "price": 13.0,
+        "discounted": 11.7
+    }
+]

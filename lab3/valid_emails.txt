@@ -1,0 +1,5 @@
+alice.smith@example.com
+alice.smith@example.com
+alice.smith@example.com
+jane-doe@company.gov
+first_last@sub.domain.org

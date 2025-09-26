@@ -1,0 +1,10 @@
+execute,2025-09-26 21:12:51.642831,alice.smith@example.com
+execute,2025-09-26 21:12:51.642864,alice.smith@example.com
+read,2025-09-26 21:12:51.642873,alice.smith@example.com
+write,2025-09-26 21:12:51.642879,user.name@localhost
+read,2025-09-26 21:12:51.642886,jane-doe@company.gov
+write,2025-09-26 21:12:51.642891,no-at-symbol.com
+read,2025-09-26 21:12:51.642899,mary@@example.com
+write,2025-09-26 21:12:51.642908,x@short.c
+read,2025-09-26 21:12:51.642917,first_last@sub.domain.org
+execute,2025-09-26 21:12:51.642925,space in@address.com
